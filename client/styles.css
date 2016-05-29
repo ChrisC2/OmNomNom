@@ -1,0 +1,67 @@
+body {
+  background-image: url('https://wallpaperscraft.com/image/spices_pepper_garlic_cutting_board_78722_3840x2400.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #16BFFD;
+  color: white;
+}
+
+.nav-bar {
+  top: 0px;
+  width: 100%;
+  height: auto;
+  background: #16BFFD;
+  background: -webkit-linear-gradient(to left, #16BFFD , #CB3066);
+  background: linear-gradient(to left, #16BFFD , #CB3066);
+  -webkit-box-shadow: 7px 6px 5px -1px rgba(189,181,191,0.83);
+  -moz-box-shadow: 7px 6px 5px -1px rgba(189,181,191,0.83);
+  box-shadow: 1px 6px 5px -1px rgba(189,181,191,0.83);
+
+}
+
+.title {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+.tables-container {
+  top: 30px;
+  display: flex;
+  align-content: center;
+  margin: 0 20px;
+  height: 600px
+}
+
+.table-container {
+  width: 33%;
+  height: 90%;
+  margin: 10px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  -webkit-box-shadow: 7px 6px 5px -1px rgba(189,181,191,0.83);
+  -moz-box-shadow: 7px 6px 5px -1px rgba(189,181,191,0.83);
+  box-shadow: 1px 6px 5px -1px rgba(189,181,191,0.83);
+}
+
+.grid-container {
+  background-color: white;
+  border-radius: 4px;
+  border: 1px solid #dddddd;
+  height: 85%;
+  overflow:scroll;
+}
+
+.title-container {
+  font-size: 30px !important;
+  font-weight: bold !important;
+}
+
+.search-container {
+  margin: 30px;
+  width: 30%;
+}

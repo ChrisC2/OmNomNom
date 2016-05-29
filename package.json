@@ -1,0 +1,35 @@
+{
+  "name": "frontend-code-test",
+  "version": "1.0.0",
+  "description": "React/ES6/Webpack Recipes",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-loader": "*",
+    "babel-plugin-add-module-exports": "*",
+    "babel-plugin-react-html-attrs": "*",
+    "babel-plugin-transform-class-properties": "*",
+    "babel-plugin-transform-decorators-legacy": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-stage-0": "*",
+    "classnames": "*",
+    "react": "*",
+    "react-dom": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datascienceinc/frontend-code-test.git"
+  },
+  "author": "Chris Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datascienceinc/frontend-code-test/issues"
+  },
+  "homepage": "https://github.com/datascienceinc/frontend-code-test#readme"
+}
