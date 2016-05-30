@@ -23,17 +23,16 @@ body {
 }
 
 .title {
-  font-size: 40px;
+  font-size: 30px;
   color: white;
   text-align: center;
 }
 
 .tables-container {
-  top: 30px;
   display: flex;
   align-content: center;
-  margin: 0 20px;
-  height: 600px
+  margin: 0px 20px;
+  height: 500px;
 }
 
 .table-container {
@@ -57,11 +56,12 @@ body {
 }
 
 .title-container {
-  font-size: 30px !important;
+  font-size: 20px !important;
   font-weight: bold !important;
 }
 
 .search-container {
-  margin: 30px;
+  margin-top: 20px;
+  margin-left: 30px;
   width: 30%;
 }

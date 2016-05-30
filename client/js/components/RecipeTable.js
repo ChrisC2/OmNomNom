@@ -33,7 +33,7 @@ export default class RecipeTable extends React.Component {
 
     return(
       <div className='table-container'>
-      <h2>Recipes</h2>
+      <h3>Recipes</h3>
       <div className='grid-container'>
         <table className='table table-striped table-hover table-responsive'>
         <tbody>

@@ -23,7 +23,7 @@ export default class IngredientsTable extends React.Component {
 
     return(
       <div className='table-container'>
-        <h2>Shopping List</h2>
+        <h3>Shopping List</h3>
         <div className='grid-container'>
           <table className='table table-striped table-hover table-responsive'>
           <tbody>

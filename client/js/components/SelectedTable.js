@@ -14,7 +14,7 @@ export default class SelectedTable extends React.Component {
 
     return(
       <div className='table-container'>
-        <h2>My Selections</h2>
+        <h3>My Selections</h3>
         <div className='grid-container'>
           <table className='table table-striped table-hover table-responsive'>
           <tbody>
