@@ -4,6 +4,11 @@
 
 ### Link: [Click Here](https://omnomnom.firebaseapp.com/)
 
+## Screenshot:
+<p align="center">
+  <img src="/screenshots/screenshot1.png" width="600"/>
+</p>
+
 ### Description
 * Displays a list (or table) of recipes.
 * Allows filtering of recipes by a single ingredient.
