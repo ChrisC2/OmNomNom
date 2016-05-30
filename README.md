@@ -6,7 +6,7 @@
 
 ## Screenshot:
 <p align="center">
-  <img src="/screenshots/screenshot1.png" width="600"/>
+  <img src="/screenshots/screenshot1.png" width="800"/>
 </p>
 
 ### Description
