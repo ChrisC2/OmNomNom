@@ -1,4 +1,10 @@
+# Om Nom Nom
 
+## Stack: React, ES6, Webpack
+
+### Link: [Click Here](https://omnomnom.firebaseapp.com/)
+
+### Description
 * Displays a list (or table) of recipes.
 * Allows filtering of recipes by a single ingredient.
 * Checkboxes allow selection of multiple recipes.
