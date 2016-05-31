@@ -30,6 +30,7 @@ body {
 
 .tables-container {
   display: flex;
+  display: -webkit-flex;
   align-content: center;
   margin: 0px 20px;
   height: 500px;

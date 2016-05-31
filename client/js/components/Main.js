@@ -4,6 +4,7 @@ import FilterBar from './FilterBar';
 import RecipeTable from './RecipeTable';
 import SelectedTable from './SelectedTable';
 import IngredientsTable from './IngredientsTable';
+import 'whatwg-fetch';
 
 
 export default class Main extends React.Component {
